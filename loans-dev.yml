@@ -1,0 +1,12 @@
+
+build:
+  version: "2.1.1" 
+  
+accounts:
+  message: "Welcome to ZettaBank loans related APIs"
+  contactDetails:
+    name: "Sunil Joseph - Developer"
+    email: "sunil@zettamine.com"
+  onCallSupport:
+    - (40) 123-45678
+    - (40) 456-13459
