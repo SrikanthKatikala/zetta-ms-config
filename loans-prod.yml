@@ -1,6 +1,6 @@
 
 build:
-  version: "2.3.1"
+  version: "2.3.10"
 
 loans:
   message: "Welcome to ZettaBank loans related prod APIs "
