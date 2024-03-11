@@ -2,7 +2,7 @@
 build:
   version: "2.2.1"
 
-accounts:
+loans:
   message: "Welcome to ZettaBank loans related QA APIs "
   contactDetails:
     name: "Sanjay - QA Lead"
