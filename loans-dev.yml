@@ -2,7 +2,7 @@
 build:
   version: "2.1.1" 
   
-accounts:
+loans:
   message: "Welcome to ZettaBank loans related APIs"
   contactDetails:
     name: "Sunil Joseph - Developer"
