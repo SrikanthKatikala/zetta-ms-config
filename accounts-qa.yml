@@ -1,6 +1,6 @@
 
 build:
-  version: "400"
+  version: "1.2.1"
 
 accounts:
   message: "Welcome to ZettaBank accounts related QA APIs "
